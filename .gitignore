@@ -1,0 +1,17 @@
+# Local database and telemetry logs
+telemetry.db
+
+# Python bytecode and caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
